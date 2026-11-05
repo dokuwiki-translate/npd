@@ -1,0 +1,3 @@
+Zadajte prosím názov priečinka.\\
+Upozorňujeme, že priečinok sa **NEVYTVORÍ**, kým sa neuloží\\
+stránka v ňom (**ULOŽIŤ**).
